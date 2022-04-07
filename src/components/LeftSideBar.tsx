@@ -6,16 +6,16 @@ function LeftSideBar() {
       <div className="items__categories">
         <ul>
           <li>
-            <a href="#">Shoes</a>
+            <a href="/#">Shoes</a>
           </li>
           <li>
-            <a href="#">Bags</a>
+            <a href="/#">Bags</a>
           </li>
           <li>
-            <a href="#">Accessories</a>
+            <a href="/#">Accessories</a>
           </li>
           <li>
-            <a href="#">Support</a>
+            <a href="/#">Support</a>
           </li>
         </ul>
       </div>
