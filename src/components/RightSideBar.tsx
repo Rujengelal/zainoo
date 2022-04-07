@@ -11,25 +11,25 @@ function RightSideBar() {
       <div className="more__details">
         <div>
           {" "}
-          <a href="#">Teams</a>
+          <a href="/#">Teams</a>
         </div>
         <div>
           {" "}
-          <a href="#">Packaging</a>
+          <a href="/#">Packaging</a>
         </div>
         <div>
           {" "}
-          <a href="#">Manufaturing</a>
+          <a href="/#">Manufaturing</a>
         </div>
       </div>
       <div className="social__links">
-        <a href="#">
+        <a href="/#">
           <AiFillFacebook />
         </a>
-        <a href="#">
+        <a href="/#">
           <FaTwitterSquare />
         </a>
-        <a href="#">
+        <a href="/#">
           <AiFillLinkedin />
         </a>
       </div>
